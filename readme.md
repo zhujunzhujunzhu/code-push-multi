@@ -38,6 +38,7 @@
     all <company_repo_url> (push)
     ```
 
+imya
 4.  **一键推送：**
     当需要推送到所有仓库时，只需要执行：
 
